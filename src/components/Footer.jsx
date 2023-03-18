@@ -41,6 +41,7 @@ function Footer() {
             <FaDev className="text-offWhite hover:text-accent" />
           </a>
         </li>
+    
       </ul>
     </Container>
   );
